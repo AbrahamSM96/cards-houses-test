@@ -1,7 +1,7 @@
 {
   "name": "cards-houses-test",
   "version": "1.0.0",
-  "description": "test tu canton",
+  "description": "houses",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --history-api-fallback",
