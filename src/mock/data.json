@@ -1,0 +1,172 @@
+[
+  {
+    "id": "20209615",
+    "name": "Reilly Labadie",
+    "phone": "(148) 377-5174",
+    "price": 153256,
+    "coords": "37.1136 , -142.3406",
+    "description": "1109c1abfd07a83e2f61f9b9e4838005c752830d5bbbbadb4c2d85deb4b4cd7d56432cd42b43591ce8f3377d945371f8de10",
+    "type_operation": "renta",
+    "type_property": "casa",
+    "address": {
+      "street": "599 Connelly Prairie",
+      "number_ext": 2,
+      "number_int": 33,
+      "city": "North Crystel",
+      "state": "Kentucky"
+    }
+  },
+  {
+    "id": "10239828",
+    "name": "August Fritsch Jr.",
+    "phone": "(124) 617-5944",
+    "price": 194129,
+    "coords": "-83.6161 , 150.4860",
+    "description": "52bb8679366ca543f70fa4db415ded5e19aadfddfda7f7d3893b0fc033819500ff1665dfef6150d402366e1170bbd0ed4df8",
+    "type_operation": "venta",
+    "type_property": "oficina",
+    "address": {
+      "street": "22025 Hilpert Forest",
+      "number_ext": 1,
+      "number_int": 30,
+      "city": "East Maeveland",
+      "state": "Vermont"
+    }
+  },
+  {
+    "id": "23839777",
+    "name": "Tomas Kuphal MD",
+    "phone": "(552) 167-3825",
+    "price": 243221,
+    "coords": "-24.6392 , -25.2838",
+    "description": "ff4042c57f1e5bb88e1a1f18137bb5543a96acdb9cde2e330d78f6b75b10b4b6ba9e3586f711c3649fb81791eec5755652fb",
+    "type_operation": "venta",
+    "type_property": "oficina",
+    "address": {
+      "street": "83282 Hamill Junctions",
+      "number_ext": 2,
+      "number_int": 40,
+      "city": "Lake Ardith",
+      "state": "Massachusetts"
+    }
+  },
+  {
+    "id": "52800396",
+    "name": "Winnifred Cremin",
+    "phone": "(381) 450-5486",
+    "price": 42649,
+    "coords": "-21.9203 , -9.0165",
+    "description": "9680592994c786fab8c73a2a06748278a2e4ca1a597c1d358a2b1a9f0e987553959b34aeb0b1d8309d09911a2d37cfe2c756",
+    "type_operation": "venta",
+    "type_property": "oficina",
+    "address": {
+      "street": "37638 Arnoldo Island",
+      "number_ext": 3,
+      "number_int": 34,
+      "city": "East D'angelostad",
+      "state": "Utah"
+    }
+  },
+  {
+    "id": "18794351",
+    "name": "Brigitte Kassulke",
+    "phone": "(164) 712-3637",
+    "price": 236379,
+    "coords": "-78.0114 , 61.8663",
+    "description": "76f1408de2dd943faed137f14b3355bbf76a42159ca1eced8177bfb12b204c0eb8203263f4fee5f989775d777f4f35e8e87a",
+    "type_operation": "renta",
+    "type_property": "oficina",
+    "address": {
+      "street": "4373 DuBuque Union",
+      "number_ext": 4,
+      "number_int": 48,
+      "city": "Funkberg",
+      "state": "Massachusetts"
+    }
+  },
+  {
+    "id": "33981319",
+    "name": "Ubaldo Legros",
+    "phone": "(084) 912-6954",
+    "price": 336142,
+    "coords": "-86.4167 , 52.7313",
+    "description": "adc24500b3dadb7eaf85804649f4f7d4ad977556d0b526e989d5f1d0b9e6c683d6b8649dc21cf10220b5baa05233dbf0dbf1",
+    "type_operation": "venta",
+    "type_property": "departamento",
+    "address": {
+      "street": "51119 Adrianna Trafficway",
+      "number_ext": 1,
+      "number_int": 23,
+      "city": "South Hazelside",
+      "state": "Maryland"
+    }
+  },
+  {
+    "id": "87739555",
+    "name": "Shanny Hamill DVM",
+    "phone": "(271) 518-8301",
+    "price": 250586,
+    "coords": "54.3043 , -33.3499",
+    "description": "61424ed8b751e75baecb13e85276f79b5da8d2c74bd0a7a3c2d62f78ea65ae98ade4c4ccd5b5bacd21bde2539cc82b5178b8",
+    "type_operation": "renta",
+    "type_property": "departamento",
+    "address": {
+      "street": "76651 Gerlach Row",
+      "number_ext": 4,
+      "number_int": 26,
+      "city": "Lake Hallemouth",
+      "state": "Maryland"
+    }
+  },
+  {
+    "id": "27758270",
+    "name": "Emerson Funk",
+    "phone": "(719) 099-1789",
+    "price": 340832,
+    "coords": "-36.0269 , 23.1101",
+    "description": "bc2868532523a8851adafe6903c3385fbf2623b3ed66689505add5012d29e0bb8877718509d2dcd05e08fb8e7eb75a1b03ab",
+    "type_operation": "renta",
+    "type_property": "departamento",
+    "address": {
+      "street": "9796 Myah Estate",
+      "number_ext": 5,
+      "number_int": 27,
+      "city": "Port Arelyhaven",
+      "state": "Minnesota"
+    }
+  },
+  {
+    "id": "37807952",
+    "name": "Hyman Weimann",
+    "phone": "(052) 557-5453",
+    "price": 228224,
+    "coords": "31.4749 , -83.7439",
+    "description": "5d931035916d2e7011a6527e9aca4506d07ec630a24f00180d95ead013d6f38f0bd6c3c7bbc513ac9a9be2d98a1f229b981e",
+    "type_operation": "venta",
+    "type_property": "casa",
+    "address": {
+      "street": "6567 Ruthe Way",
+      "number_ext": 2,
+      "number_int": 34,
+      "city": "West Adrain",
+      "state": "Maine"
+    }
+  },
+  {
+    "id": "73001306",
+    "name": "Miss Leonel Leuschke",
+    "phone": "(528) 062-3815",
+    "price": 258016,
+    "coords": "61.4159 , -62.3619",
+    "description": "ece033b487898798e23dad2d0651823931589d8c6941a90f1a6a0af3cdfb7072580acf3ba22f4254ad6982b04abad520bba0",
+    "type_operation": "venta",
+    "type_property": "oficina",
+    "address": {
+      "street": "54323 Mariam Center",
+      "number_ext": 3,
+      "number_int": 47,
+      "city": "Port Bertaport",
+      "state": "Arizona"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "okol-abraham-serrano-2021-02-08",
+  "version": "1.0.0",
+  "description": "test tu canton",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-cli serve --mode development --hot --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AbrahamSerrano@bitbucket.org/AbrahamSerrano/okol-abraham-serrano-2021-02-08.git"
+  },
+  "author": " <abrahamserrano96@hotmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/AbrahamSerrano/okol-abraham-serrano-2021-02-08#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "file-loader": "^6.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-image-gallery": "^1.0.8",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.2.1",
+    "vercel": "^21.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.2",
+    "html-webpack-plugin": "^5.0.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}

@@ -1,0 +1,10 @@
+1.- Clonar el proyecto
+-> git clone https://AbrahamSerrano@bitbucket.org/AbrahamSerrano/okol-abraham-serrano-2021-02-08.git
+
+2.- Instalar dependencias con el comando
+-> npm i
+
+3.- Si da error en la instalacion de dependencias eliminar package-lock.json e intentar el comando anterior
+
+4.- Iniciar el proyecto con el siguiente comando
+-> npm run dev
