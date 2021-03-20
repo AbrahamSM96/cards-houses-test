@@ -13,6 +13,9 @@ module.exports = {
       template: "public/index.html",
     }),
   ],
+  performance: {
+    hints: false,
+  },
   module: {
     rules: [
       {
