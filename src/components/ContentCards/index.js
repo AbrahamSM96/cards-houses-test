@@ -4,7 +4,6 @@ import { Cardd } from "../Card";
 import data from "../../mock/data.json";
 
 export const ContentCards = () => {
-  console.log(data);
   return (
     <>
       <Row>

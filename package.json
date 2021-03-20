@@ -4,11 +4,13 @@
   "description": "test tu canton",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-cli serve --mode development --hot --inline",
+    "dev": "webpack-dev-server --history-api-fallback",
     "start": "webpack-cli serve --mode production",
     "deploy": "vercel",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack --mode production",
+    "serve:dev": "webpack --mode 'development' && npx serve dist -s",
+    "now-build": "npm run build"
   },
   "repository": {
     "type": "git",
