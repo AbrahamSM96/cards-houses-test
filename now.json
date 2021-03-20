@@ -17,8 +17,8 @@
       "dest": "/$1.json"
     },
     {
-      "src": "(.*).png",
-      "dest": "/$1.png"
+      "src": "(.*).jpg",
+      "dest": "/$1.jpg"
     },
     {
       "src": "(.*).css",
